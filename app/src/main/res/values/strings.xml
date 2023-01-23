@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SalahTracker</string>
+    <string name="app_tag">Count your missing Salah</string>
+    <string name="app_tag_fast">Count your missing Fast</string>
+
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="magrib">Magrib</string>
+    <string name="isha">Isha</string>
+    <string name="fast">Fast</string>
+
+
+    <string name="defaultVal">0</string>
+    <string name="defaultTime">11:00 PM</string>
+    <string name="defaultDate">13th Jan 2023 (11 Shaban 1432)</string>
+
+    <string name="txtInc">+</string>
+    <string name="txtDec">-</string>
+
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+</resources>
